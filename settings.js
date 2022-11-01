@@ -32,19 +32,19 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94762212397'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94762212397'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94762212397'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Isuru Madhushan' // Your name ඔබේ නම 
+global.botnma = '❤️💫ISURU💫❤️' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝔐𝔄𝔇ℌ𝔘𝔖ℌ𝔄𝔑' //ownernama,ownername
+global.packname = 'IMS Sticker' // Sticker package name 
+global.author = '𝙸𝚂𝚄𝚁𝚄' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
+global.alivelogo = `https://telegra.ph/file/9ff339fe135a26d30ce2d.jpg`
 global.alive =`Hello i am alive now
 
 Download song type .yt 
